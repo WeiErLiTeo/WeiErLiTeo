@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "00 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: WeiErLiTeo  # 替换为你的 GitHub 用户名
+          github_user_name: WeiErLiTeo
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
