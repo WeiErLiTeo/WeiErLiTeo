@@ -1,4 +1,4 @@
-## 🛠️ 语言
+## 🛠️ Languages
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -8,12 +8,13 @@
 
 ---
 
-## 📊 统计
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&theme=radical&locale=cn" alt="GitHub 统计" style="width: 500px; display: block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&theme=radical&locale=cn" alt="常用语言" style="width: 500px; display: block; margin-top: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="width: 500px; display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&theme=radical&locale=en" alt="Top Languages" style="width: 500px; display: block; margin-top: 10px;" />
+</div>
 
---
-</![github-snake](https://raw.githubusercontent.com/WeiErLiTeo/WeiErLiTeo/output/github-contribution-grid-snake.svg) />
+---
 
+![github-snake](https://raw.githubusercontent.com/WeiErLiTeo/WeiErLiTeo/output/github-contribution-grid-snake.svg)
