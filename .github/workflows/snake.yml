@@ -1,0 +1,6 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "00 * * *" # 每天运行一次
+  workflow_dispatch:
