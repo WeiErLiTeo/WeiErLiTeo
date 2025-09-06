@@ -13,12 +13,24 @@ jobs:
 
       - name: Generate Snake SVG
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: WeiErLiTeo
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # 生成 SVG 文件到工作目录的根目录
+          svg_out_path: github-contribution-grid-snake.svg
+
+      - name: Generate Dark Mode SVG
+        uses: Platane/snk@master
+        with:
+          github_user_name: WeiErLiTeo
+          svg_out_path: github-contribution-grid-snake-dark.svg
+          palette: github-dark
+
+      # 关键步骤：手动创建目录并复制文件
+      - name: Create Build Directory and Copy Files
+        run: |
+          mkdir -p dist
+          cp github-contribution-grid-snake.svg dist/
+          cp github-contribution-grid-snake-dark.svg dist/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
