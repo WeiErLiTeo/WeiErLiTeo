@@ -7,8 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-![github-snake](https://github.com/WeiErLiTeo/WeiErLiTeo/blob/output/github-contribution-grid-snake.svg)
----
+![github-snake](https://raw.githubusercontent.com/WeiErLiTeo/WeiErLiTeo/output/github-contribution-grid-snake.svg)
 
 ## 📊 统计
 
