@@ -1,5 +1,5 @@
 <p align="center">
-  **GB** English | [**CN** 简体中文](./README_zh-CN.md) | [**JA** 日本語](./README_ja.md)
+  <strong>GB</strong> English | <a href="./README_zh-CN.md"><strong>CN</strong> 简体中文</a> | <a href="./README_ja.md"><strong>JA</strong> 日本語</a>
 </p>
 
 ---
