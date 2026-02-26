@@ -18,9 +18,5 @@
   <hr style="border: 0.5px solid #eee; width: 80%">
 
   <p>🔢 <b>Special personal counters</b></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&show_icons=true&layout=compact&theme=transparent" height="150" />
-  
-  <br><br>
-  
   <img src="https://count.getloli.com/get/@WeiErLiTeo?theme=asoul" />
 </div>
