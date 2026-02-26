@@ -14,8 +14,7 @@
       <img src="https://img.shields.io/badge/Android%2014-3DDC84?style=flat-square&logo=android&logoColor=white" valign="middle" />
     </p>
     <p style="margin: 2px 0;">
-      <b>Contact me!</b> -> 
-      <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" valign="middle" /></a>
+      <b>Contact me!</b> -> <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" valign="middle" /></a>
       <a href="https://t.me/你的账号"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white" valign="middle" /></a>
       <a href="https://github.com/WeiErLiTeo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" valign="middle" /></a>
     </p>
