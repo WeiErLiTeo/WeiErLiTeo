@@ -12,5 +12,5 @@
   <h2>📊 数据统计</h2>
   <img src="https://badges.strrl.dev/repos/WeiErLiTeo" alt="Repos"> <img src="https://badges.strrl.dev/commits/all/WeiErLiTeo" alt="Commits"> <img src="https://badges.strrl.dev/contributions/all/WeiErLiTeo" alt="Contributions"> <img src="https://badges.strrl.dev/years/WeiErLiTeo" alt="Years">
   <br><br>
-  <img src="./github-metrics-zh.svg" alt="Metrics Chinese">
+  <img src="./github-metrics-zh.svg?v=1" alt="Metrics Chinese">
 </div>
