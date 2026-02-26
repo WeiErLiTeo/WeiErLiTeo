@@ -1,12 +1,11 @@
-<p align="center">
-  <strong>GB</strong> English | <a href="./README_zh-CN.md"><strong>CN</strong> 简体中文</a> | <a href="./README_ja.md"><strong>JA</strong> 日本語</a>
-</p>
-
----
-
 <div align="center">
   <img src="https://github.com/WeiErLiTeo.png" width="192" height="192">
   <h1>WeiErLiTeo</h1>
+  ### 🙋‍♀️ A bit about myself
+
+- I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
+
+- Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
   <p>Check out my GitHub profile here</p>
   <br>
   <h2>📊 Statistics</h2>
