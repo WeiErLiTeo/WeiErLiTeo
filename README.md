@@ -9,10 +9,8 @@
   <a href="https://github.com/WeiErLiTeo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <br><br>
   <img src="./github-metrics.svg" alt="Metrics" width="450">
-
   <br><br>
   <hr style="border: 0.5px solid #eee; width: 80%">
-
   <p>🔢 <b>Special personal counters</b></p>
   <img src="https://count.getloli.com/get/@WeiErLiTeo?theme=asoul" />
 </div>
