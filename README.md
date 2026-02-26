@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://github.com/WeiErLiTeo.png" width="160" height="160">
   <h1>WeiErLiTeo</h1>
+
   <p>
-    Trilingual (to some extent) -> <code>{zh: 中文, en: English (Learning/学习中), ja: 日本語 (Learning/学习中)}</code>
+    <b>Multilingual</b> -> <code>{ zh: 中文, en: English (Learning 📚), ja: 日本語 (Learning 🎌) }</code>
   </p>
 
   <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -11,12 +12,15 @@
 
   <br><br>
 
-  <img src="./github-metrics.svg" alt="Metrics" width="50%">
+  <img src="./github-metrics.svg" alt="Metrics" width="450">
 
   <br><br>
-  <hr style="border: 0.5px solid #eee">
+  <hr style="border: 0.5px solid #eee; width: 80%">
 
-  <h3>🔢 Special personal counters</h3>
+  <p>🔢 <b>Special personal counters</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&theme=transparent" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&show_icons=true&layout=compact&theme=transparent" height="150" />
   
   <br><br>
   
