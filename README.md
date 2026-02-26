@@ -1,21 +1,21 @@
 ### 👋 Hi there!
 
-**GB English** | [CN 简体中文](./README_zh-CN.md) | [JA 日本語](./README_ja.md)
+**GB** English | [**CN** 简体中文](./README_zh-CN.md) | [**HK** 繁體中文](./README_zh-HK.md)
 
 ---
 
-### 🙋‍♀️ A bit about myself
-- **Trilingual (to some extent) -> `{en: English, zh: 中文, ja: 日本語}`**
-- Focus on Flutter & Dart development, passionate about building cross-platform apps.
-- Also involved in Web frontend technologies (HTML5, CSS3, JavaScript).
-- Committed to writing clean, efficient, and maintainable code.
-
 ### 🌱 Programming Languages & Tools
-[![Programming Languages](https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,vscode)]()
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,vscode" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
-![WeiErLiTeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&theme=radical&count_private=true&include_all_commits=true) &nbsp; &nbsp;
-![WeiErLiTeo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&theme=radical&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&theme=radical&layout=compact" height="150" alt="top langs" />
+</p>
 
 ---
 
