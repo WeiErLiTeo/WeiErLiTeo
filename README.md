@@ -8,8 +8,9 @@
   </p>
   
   <div style="margin-bottom: 15px;">
-    [![X](https://img.shields.io/badge/EternaHunters-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/EternaHunters)
-    <a href="https://t.me/lemonooooooooo"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:2711665916qq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://x.com/EternaHunters"><img src="https://img.shields.io/badge/EternaHunters-000000?style=flat-square&logo=x&logoColor=white" /></a>
+    <a href="https://t.me/lemonooooooooo"><img src="https://img.shields.io/badge/lemonooooooooo-26a5e4?style=flat-square&logo=telegram&logoColor=white" /></a>
     <a href="https://github.com/WeiErLiTeo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </div>
   
