@@ -4,7 +4,7 @@
   <h1 style="margin: 15px 0;">WeiErLiTeo</h1>
   
   <p style="margin: 15px 0;">
-    <b>Multilingual</b> -> <code>{ zh: 中文, en: English (Learning 学习中), ja: 日本語 (Learning 学习中) }</code>
+    <b>Multilingual</b> -> <code>{ 中文, English(Learning 学习中),日本語(Learning 学习中) }</code>
   </p>
   
   <div style="margin-bottom: 15px;">
