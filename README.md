@@ -11,15 +11,12 @@
 
   <br><br>
 
-  <img src="./github-metrics.svg" alt="Metrics" width="70%">
+  <img src="./github-metrics.svg" alt="Metrics" width="40%">
 
   <br><br>
   <hr style="border: 0.5px solid #eee">
 
   <h3>🔢 Special personal counters</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&theme=transparent" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&show_icons=true&layout=compact&theme=transparent" height="150" />
   
   <br><br>
   
