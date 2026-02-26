@@ -18,8 +18,6 @@
   <hr style="border: 0.5px solid #eee; width: 80%">
 
   <p>🔢 <b>Special personal counters</b></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WeiErLiTeo&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&theme=transparent" height="150" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiErLiTeo&show_icons=true&layout=compact&theme=transparent" height="150" />
   
   <br><br>
