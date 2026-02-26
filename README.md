@@ -11,7 +11,7 @@
 
   <br><br>
 
-  <img src="./github-metrics.svg" alt="Metrics" width="60%">
+  <img src="./github-metrics.svg" alt="Metrics" width="50%">
 
   <br><br>
   <hr style="border: 0.5px solid #eee">
