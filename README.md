@@ -10,7 +10,6 @@
   <br>
   <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%2014-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-4f4f4f?style=flat-square&logo=apple&logoColor=white" />
   <br>
   <img src="./github-metrics.svg" alt="Metrics" width="400" style="margin-top: 10px;">
   <hr style="border: 0.5px solid #eee; width: 80%; margin: 15px 0;">
