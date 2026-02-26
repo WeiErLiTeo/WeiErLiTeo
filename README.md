@@ -1,33 +1,22 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
-on:
-  workflow_dispatch:
-  push:
-  schedule:
-    - cron: "0 0 * * *"
+**GB** English | [**CN** 简体中文](./README_zh-CN.md) | [**HK** 繁體中文](./README_zh-HK.md)
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+---
 
-          # Options
-          user: WeiErLiTeo
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_gists: no
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_skipped: dotfiles
-          plugin_languages_colors: github
-          plugin_languages_limit: 10
-          plugin_languages_threshold: 0%
-          plugin_people: no
-          plugin_projects: no
-          plugin_stars: no
+<div align="center">
+  <img src="https://github.com/WeiErLiTeo.png" width="192" height="192">
+  <h1>WeiErLiTeo</h1>
+</div>
+
+<div align="center">
+  Check out my GitHub profile here
+</br>
+  https://github.com/WeiErLiTeo
+</div>
+
+<div align="center">
+  <h2>📊 Statistics</h2>
+  
+  ![Repos Badge](https://badges.strrl.dev/repos/WeiErLiTeo) ![Commits Badge](https://badges.strrl.dev/commits/all/WeiErLiTeo) ![Contributions Badge](https://badges.strrl.dev/contributions/all/WeiErLiTeo) ![Years Badge](https://badges.strrl.dev/years/WeiErLiTeo)
+
+  ![Metrics](./github-metrics.svg)
+</div>
