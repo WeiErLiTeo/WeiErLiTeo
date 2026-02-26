@@ -7,21 +7,20 @@
     <b>Multilingual</b> -> <code>{ zh: 中文, en: English (Learning 学习中), ja: 日本語 (Learning 学习中) }</code>
   </p>
   
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/你的账号"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/WeiErLiTeo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <br>
+  <div style="margin-bottom: 15px;">
+    <a href="mailto:2711665916qq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://t.me/lemonooooooooo"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white" /></a>
+    <a href="https://github.com/WeiErLiTeo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  </div>
   
-  <div style="margin-top: 10px;">
+  <div style="margin-bottom: 25px;">
     <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Android%2014-3DDC84?style=flat-square&logo=android&logoColor=white" />
   </div>
   
-  <br>
+  <img src="./github-metrics.svg" alt="Metrics" width="400" style="margin-top: 10px;">
   
-  <img src="./github-metrics.svg" alt="Metrics" width="400" style="margin-top: 25px;">
-  
-  <hr style="border: 0.5px solid #eee; width: 80%; margin: 35px 0;">
+  <hr style="border: 0.5px solid #eee; width: 80%; margin: 30px 0;">
   
   <p style="margin-bottom: 10px;">🔢 <b>Special personal counters</b></p>
   <img src="https://count.getloli.com/get/@WeiErLiTeo?theme=asoul" />
