@@ -17,7 +17,6 @@
   <img src="./github-metrics.svg" alt="Metrics" width="400" style="margin-top: 10px;">
   
   <hr style="border: 0.5px solid #eee; width: 80%; margin: 30px 0;">
-  
-  <p style="margin-bottom: 10px;">🔢 <b>Special personal counters</b></p>
+ 
   <img src="https://count.getloli.com/get/@WeiErLiTeo?theme=asoul" />
 </div>
