@@ -6,7 +6,6 @@
   <div style="margin-bottom: 15px;">
     <a href="https://x.com/EternaHunters"><img src="https://img.shields.io/badge/EternaHunters-000000?style=flat-square&logo=x&logoColor=white" /></a>
     <a href="https://t.me/lemonooooooooo"><img src="https://img.shields.io/badge/lemonooooooooo-26a5e4?style=flat-square&logo=telegram&logoColor=white" /></a>
-    <a href="https://github.com/WeiErLiTeo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </div>
   
   <img src="./github-metrics.svg" alt="Metrics" width="400" style="margin-top: 10px;">
